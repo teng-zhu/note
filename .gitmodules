@@ -1,4 +1,0 @@
-[submodule "sub-module"]
-[submodule "src"]
-	path = src
-	url = git@github.com:teng-zhu/sub-module.git
